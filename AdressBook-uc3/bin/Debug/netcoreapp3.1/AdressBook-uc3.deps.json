@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AdressBook-uc3/1.0.0": {
+        "runtime": {
+          "AdressBook-uc3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AdressBook-uc3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

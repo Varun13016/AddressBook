@@ -1,0 +1,14 @@
+C:\Users\VARUN KUMAR\source\repos\AdressBook-uc3\AdressBook-uc3\bin\Debug\netcoreapp3.1\AdressBook-uc3.exe
+C:\Users\VARUN KUMAR\source\repos\AdressBook-uc3\AdressBook-uc3\bin\Debug\netcoreapp3.1\AdressBook-uc3.deps.json
+C:\Users\VARUN KUMAR\source\repos\AdressBook-uc3\AdressBook-uc3\bin\Debug\netcoreapp3.1\AdressBook-uc3.runtimeconfig.json
+C:\Users\VARUN KUMAR\source\repos\AdressBook-uc3\AdressBook-uc3\bin\Debug\netcoreapp3.1\AdressBook-uc3.runtimeconfig.dev.json
+C:\Users\VARUN KUMAR\source\repos\AdressBook-uc3\AdressBook-uc3\bin\Debug\netcoreapp3.1\AdressBook-uc3.dll
+C:\Users\VARUN KUMAR\source\repos\AdressBook-uc3\AdressBook-uc3\bin\Debug\netcoreapp3.1\AdressBook-uc3.pdb
+C:\Users\VARUN KUMAR\source\repos\AdressBook-uc3\AdressBook-uc3\obj\Debug\netcoreapp3.1\AdressBook-uc3.csproj.AssemblyReference.cache
+C:\Users\VARUN KUMAR\source\repos\AdressBook-uc3\AdressBook-uc3\obj\Debug\netcoreapp3.1\AdressBook-uc3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VARUN KUMAR\source\repos\AdressBook-uc3\AdressBook-uc3\obj\Debug\netcoreapp3.1\AdressBook-uc3.AssemblyInfoInputs.cache
+C:\Users\VARUN KUMAR\source\repos\AdressBook-uc3\AdressBook-uc3\obj\Debug\netcoreapp3.1\AdressBook-uc3.AssemblyInfo.cs
+C:\Users\VARUN KUMAR\source\repos\AdressBook-uc3\AdressBook-uc3\obj\Debug\netcoreapp3.1\AdressBook-uc3.csproj.CoreCompileInputs.cache
+C:\Users\VARUN KUMAR\source\repos\AdressBook-uc3\AdressBook-uc3\obj\Debug\netcoreapp3.1\AdressBook-uc3.dll
+C:\Users\VARUN KUMAR\source\repos\AdressBook-uc3\AdressBook-uc3\obj\Debug\netcoreapp3.1\AdressBook-uc3.pdb
+C:\Users\VARUN KUMAR\source\repos\AdressBook-uc3\AdressBook-uc3\obj\Debug\netcoreapp3.1\AdressBook-uc3.genruntimeconfig.cache
